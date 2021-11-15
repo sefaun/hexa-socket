@@ -1,0 +1,6 @@
+#-lib hxnodejs
+-cp src
+-D analyzer-optimize
+-main Main
+#-js bin/js/main.js
+-python bin/python/main.py
